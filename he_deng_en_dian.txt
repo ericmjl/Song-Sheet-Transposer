@@ -1,0 +1,67 @@
+>>Title: 何等恩典
+>>Key: G
+>>Arrangement: Intro, Stanza[1], Chorus, Stanza[1], Chorus, Crossover, Bridge, Bridge, Chorus, Coda, Coda, Coda
+
+
+>>>Intro
+C: G  G/B  C
+L:
+
+C: G  G/B  C
+L:
+<<<
+
+>>>Stanza[1]
+C:   G  G/B      C   G/B
+L: 以真诚的心    降服在你面前
+
+C: C   G/B   A  D;7
+L: 开我心眼  使我看见
+
+C:   G G/B       C   G/B
+L: 以感恩的心    领受生命活水
+
+C:  A;m   D     G   D;sus4
+L: 从你而来的温柔谦卑
+<<<
+
+>>>Chorus
+C:     G   G/B    C  G/B
+L: 何等恩典 你竟然在乎我
+
+C:     A;m   A/C#   D;sus4  D
+L: 何等恩典   你宝血为我流
+
+C:     G/B   G      C     C#;dim
+L: 何等恩典   你以尊贵荣耀为我冠冕
+
+C:   G/D D;sus4  G
+L: 我的嘴   必充满赞美
+<<<
+
+>>>Bridge
+C: G       C
+L: 你已挪去我所有枷锁
+
+C: A/C#    D;7
+L: 你已挪去我所有重担
+
+C: G/B     C 
+L: 你已挪去我所有伤悲
+
+C: G/D    D;7    G
+L: 你的名配得所有颂赞
+<<<
+
+>>>Crossover
+C: G      C/G      G      C/G
+L:
+<<<
+
+>>>Coda
+C:     G/B   G      C     C#;dim
+L: 何等恩典   你以尊贵荣耀为我冠冕
+
+C:   G/D D;sus4  G
+L: 我的嘴   必充满赞美
+<<<

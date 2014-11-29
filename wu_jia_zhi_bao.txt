@@ -1,0 +1,85 @@
+>>Title: 無價至寶
+>>Key: Bb
+>>Arrangement: Intro, Stanza[1], Stanza[2], Chorus, Crossover, Stanza[2], Chorus-Minus, Chorus, Crossover2, Chorus-Minus, Chorus, Coda
+
+>>>Intro
+C: Bb  A D  G;m  Bb/F  
+L:
+
+C: Eb  D;m/F  G;m  Ab;m  Eb C;m F;m
+L:
+<<<
+
+>>>Stanza[1]
+C:     Bb     C;m7/Bb
+L: 我的名字 刻劃在你心中
+
+C:     A;m7  D    G;m7    Bb/F
+L: 我的臉孔      深映在你眼中
+
+C:     Eb  Eb;7     D;m  G;m
+L: 不是因為       我勢力才能
+
+C:     C;m         F
+L: 乃是因著 你奇妙寬容恩典
+<<<
+
+>>>Stanza[2]
+C:     Bb     C;m7/Bb
+L: 雖然有時 我會跌倒軟弱
+
+C:      A;m7  D     G;m7   Bb
+L: 你卻一直      包容不放棄我
+
+C:     Eb  Eb;7      D;m  G;m
+L: 用你慈愛       緊緊的擁抱
+
+C:     C;m        F    F
+L: 我讚美你  寶貴奇妙大愛
+<<<
+
+>>>Chorus
+C:        Bb         G;m 
+L: 唯有你配得    所有的讚美
+
+C:    Eb   F
+L: 一切尊貴榮耀
+
+C:         D    D/F#  G;m  Bb/F
+L: 主 你的十架   是無價  至寶
+
+C:    Eb   D;m  C;m   F  Bb
+L: 你是我 尊貴的   主    耶穌
+<<<
+
+>>>Chorus-Minus
+C:         Bb         G;m
+L: 唯有你配得    所有的讚美
+
+C:    Eb     F
+L: 一切尊貴榮耀
+
+C:          D   D/F#    G;m  Bb/F
+L: 主 你的十架   是無價   至寶
+
+C:    Eb  D;m  C;m
+L: 你是我 尊貴的  主
+<<<
+
+>>>Coda
+C: G;m      Eb     F    Bb
+L:       你是我尊貴的主 耶穌
+<<<
+
+>>>Crossover
+C: Bb    D;m/A     G;m  D;m/F  Eb
+L:
+<<<
+
+>>>Crossover2
+C: Eb     Eb;7     D       G 
+L:
+
+C: C;m    Bb       A;m7    F
+L:
+<<<
