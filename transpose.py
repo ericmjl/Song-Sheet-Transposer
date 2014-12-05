@@ -1,4 +1,5 @@
 import codecs
+import re
 
 from copy import deepcopy
 
@@ -60,10 +61,15 @@ class SheetMusic(object):
 						line_counter += 1
 						self.parts[part][line_counter] = dict()
 						self.parts[part][line_counter]['chords'] = dict()
-						chords = [c for c in line2.strip('\n').split(':')[1].split(' ') if c != '']
-						for chord in chords:
-							position = line2[2:].index(chord)
-							self.parts[part][line_counter]['chords'][position] = chord
+						chords = dict()
+						for chord in line2.strip('\n').split(':')[1].split():
+							poss = [m.start() for m in re.finditer(chord, line2[2:])]
+							for pos in poss:
+									chords[pos] = chord
+						# chords = {i:c for i, c in enumerate(line2.strip('\n').split(':')[1].split(' ') )if c != ''}
+						# for chord in chords:
+							# position = line2[2:].index(chord)
+						self.parts[part][line_counter]['chords'] = chords
 
 					# Grab out the lyrics
 					if line2[0:2] == 'L:' and part_is_correct:
@@ -101,6 +107,7 @@ class SheetMusic(object):
 			for line, contents in lines.items():
 				for position, chord in contents['chords'].items():
 					contents['chords'][position] = self._get_transposed_chord(chord, self.transpose_delta)
+					print(contents['chords'])
 
 	def _get_transposed_chord(self, current_chord, transpose_delta):
 		# Get the base key
